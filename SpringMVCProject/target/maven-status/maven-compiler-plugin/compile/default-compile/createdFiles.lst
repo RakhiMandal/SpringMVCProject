@@ -1,0 +1,7 @@
+com\service\TrainerService.class
+com\config\ConfigFile.class
+com\repository\DataRepo.class
+com\service\TrainerServiceInterface.class
+com\bean\Trainer.class
+com\controller\TrainerController.class
+com\config\ConfigurationForAll.class
